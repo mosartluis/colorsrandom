@@ -26,7 +26,7 @@ const Card = ({userRandom, colorRandom, arrayColor, users, getElementRandom, cli
       <button style={styleButton} 
          className='card__btn'
          onClick={clickButton}
-         >&#62;</button>
+         >O</button>
    </article>
   )
 }
